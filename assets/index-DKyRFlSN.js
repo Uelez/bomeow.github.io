@@ -9314,7 +9314,7 @@ const Tr = () => {
                 z.jsx("p", {
                   className: t,
                   children:
-                    "$BOMEOW is on Solana Chain and is available to up for sale during the presale on Pinksale and once it's live on Raydium. Don't missed out the next 100x from the Solana Memecoin get yours today!",
+                    "$BOMEOW is on Solana Chain and is available to up for sale once it's live on Raydium. Don't missed out the next 100x from the Solana Memecoin get yours today!",
                 }),
                 z.jsxs("a", {
                   onClick: io,
@@ -14000,7 +14000,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                 z.jsx("div", {
                   className: `${zt.blockContent} ${n ? zt.active : ""}`,
                   children:
-                    "You can get in early and purchase some on our Presale at Pinksale or trade $BOMEOW on Raydium DEX once its live.",
+                    "You can get in early and purchase some $BOMEOW on Raydium DEX once its live.",
                 }),
               ],
             }),
@@ -14361,7 +14361,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                     onClick: io,
                     className: `${xn.linksLink} ${xn.white} ${t}`,
                     children: [
-                      "PRESALE ON ",
+                      " ON ",
                       z.jsx("img", { src: nA, alt: "" }),
                     ],
                      }),
