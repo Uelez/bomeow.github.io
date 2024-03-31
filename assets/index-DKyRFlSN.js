@@ -9193,13 +9193,13 @@ const Tr = () => {
   XS = "/assets/WhitePaperBomeow-DoN6lfj3.pdf",
   Ld = "comingsoon",
   Au =
-    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=comingsoon&outputSymbol=HXUQvW&fixed=in",
+    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=4iLCnCjpSpAV6Yce8a5wH8c5uwK6XAWXr1T1Zj4qMXHj&outputSymbol=HXUQvW&fixed=in",
   JS = `https://solscan.io/token/${Ld}`,
   e2 = "https://www.dextools.io/",
   t2 = "https://www.dexview.com/",
   n2 = "https://www.solanart.io",
   r2 =
-    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=comingsoon&outputSymbol=HXUQvW&fixed=in",
+    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=4iLCnCjpSpAV6Yce8a5wH8c5uwK6XAWXr1T1Zj4qMXHj&outputSymbol=HXUQvW&fixed=in",
   i2 = "https://coinsult.net/projects/book-of-meow/",
   s2 = "https://dexscreener.com/",
   o2 = "https://www.dashboard.bomeow.com/",
@@ -14048,7 +14048,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                 z.jsxs("div", {
                   className: `${zt.blockContent} ${o ? zt.active : ""}`,
                   children: [
-                    "CA : comingsoon ",
+                    "CA : 4iLCnCjpSpAV6Yce8a5wH8c5uwK6XAWXr1T1Zj4qMXHj ",
                     z.jsx("a", { href: a0, children: " here" }),
                     ".",
                   ],
@@ -14351,7 +14351,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                   z.jsx("br", {}),
                   z.jsx("br", {}),
                   " This book is a treasure trove of feline magic, guaranteed to bring joy and wealth to its lucky paw-sessors!",
-                  " CA : comingsoon"
+                  " CA : 4iLCnCjpSpAV6Yce8a5wH8c5uwK6XAWXr1T1Zj4qMXHj"
                 ],
               }),
               z.jsxs("div", {
