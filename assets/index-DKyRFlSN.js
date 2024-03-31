@@ -9314,7 +9314,7 @@ const Tr = () => {
                 z.jsx("p", {
                   className: t,
                   children:
-                    "$BOMEOW is on Solana Chain and is available to up for sale once it's live on Raydium. Don't missed out the next 100x from the Solana Memecoin get yours today!",
+                    "$BOMEOW is on Solana Chain and is available for sale once it's live on Raydium. Don't missed out the next 100x from the Solana Memecoin get yours today!",
                 }),
                 z.jsxs("a", {
                   onClick: io,
