@@ -1,0 +1,9 @@
+body div div div div div div a:nth-child(1),
+._linksBtn_6iahc_138,
+._headerLinks_6iahc_76 > a:nth-child(3),
+._headerLinks_6iahc_76 > a:nth-child(4),
+#tokenomics,
+._socialIcon_1xeyk_73:nth-child(3),
+._icons_m0se3_72 > .bounce:nth-child(3) {
+  display: none !important;
+}
