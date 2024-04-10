@@ -9214,7 +9214,7 @@ const Tr = () => {
   f2 = () => window.open(a2, "__blank"),
   Pa = () => window.open(o2, "__blank"),
   d2 = () => window.open(s2, "__blank"),
-  h2 = "https://twitter.com/BookOfMeowSol",
+  h2 = "https://twitter.com/BookOfMeow_",
   p2 = "https://t.me/BookOfMeow_SOL",
   g2 = "https://www.instagram.com/",
   $w = () => window.open(h2, "__blank"),
