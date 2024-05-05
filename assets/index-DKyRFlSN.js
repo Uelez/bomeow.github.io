@@ -9193,13 +9193,13 @@ const Tr = () => {
   XS = "/assets/WhitePaperBomeow-DoN6lfj3.pdf",
   Ld = "comingsoon",
   Au =
-    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=78b9xGBHN9JZnyRzgVMBBxMvYH6n5gkgLAsTWmpVwCuF&outputSymbol=HXUQvW&fixed=in",
+    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=comingsoon&outputSymbol=HXUQvW&fixed=in",
   JS = `https://solscan.io/token/${Ld}`,
   e2 = "https://www.dextools.io/",
   t2 = "https://www.dexview.com/",
   n2 = "https://www.solanart.io",
   r2 =
-    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=78b9xGBHN9JZnyRzgVMBBxMvYH6n5gkgLAsTWmpVwCuF&outputSymbol=HXUQvW&fixed=in",
+    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=comingsoon&outputSymbol=HXUQvW&fixed=in",
   i2 = "https://coinsult.net/projects/book-of-meow/",
   s2 = "https://dexscreener.com/",
   o2 = "https://www.dashboard.bomeow.com/",
@@ -9214,8 +9214,8 @@ const Tr = () => {
   f2 = () => window.open(a2, "__blank"),
   Pa = () => window.open(o2, "__blank"),
   d2 = () => window.open(s2, "__blank"),
-  h2 = "https://twitter.com/BookOfMeow_",
-  p2 = "https://t.me/BookOfMeowSolana",
+  h2 = "https://twitter.com/BomeowCoin",
+  p2 = "https://t.me/Bomeow_Official",
   g2 = "https://www.instagram.com/",
   $w = () => window.open(h2, "__blank"),
   Iu = () => window.open(p2, "__blank"),
@@ -14048,7 +14048,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                 z.jsxs("div", {
                   className: `${zt.blockContent} ${o ? zt.active : ""}`,
                   children: [
-                    "CA : 78b9xGBHN9JZnyRzgVMBBxMvYH6n5gkgLAsTWmpVwCuF ",
+                    "CA : comingsoon ",
                     z.jsx("a", { href: a0, children: " here" }),
                     ".",
                   ],
@@ -14351,7 +14351,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                   z.jsx("br", {}),
                   z.jsx("br", {}),
                   " This book is a treasure trove of feline magic, guaranteed to bring joy and wealth to its lucky paw-sessors!",
-                  " CA : 78b9xGBHN9JZnyRzgVMBBxMvYH6n5gkgLAsTWmpVwCuF"
+                  " CA : comingsoon"
                 ],
               }),
               z.jsxs("div", {
