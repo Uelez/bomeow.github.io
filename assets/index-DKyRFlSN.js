@@ -9191,15 +9191,15 @@ const Tr = () => {
   ZS = "/assets/card7-f8glvGXN.png",
   $S = "/assets/card8-KFinU6aJ.png",
   XS = "/assets/WhitePaperBomeow-DoN6lfj3.pdf",
-  Ld = "7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN",
+  Ld = "comingsoon",
   Au =
-    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN&outputSymbol=HXUQvW&fixed=in",
+    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=comingsoon&outputSymbol=HXUQvW&fixed=in",
   JS = `https://solscan.io/token/${Ld}`,
   e2 = "https://www.dextools.io/",
   t2 = "https://www.dexview.com/",
   n2 = "https://www.solanart.io",
   r2 =
-    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN&outputSymbol=HXUQvW&fixed=in",
+    "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=comingsoon&outputSymbol=HXUQvW&fixed=in",
   i2 = "https://coinsult.net/projects/book-of-meow/",
   s2 = "https://dexscreener.com/",
   o2 = "https://www.dashboard.bomeow.com/",
@@ -14048,7 +14048,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                 z.jsxs("div", {
                   className: `${zt.blockContent} ${o ? zt.active : ""}`,
                   children: [
-                    "CA : 7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN ",
+                    "CA : comingsoon ",
                     z.jsx("a", { href: a0, children: " here" }),
                     ".",
                   ],
@@ -14351,7 +14351,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
                   z.jsx("br", {}),
                   z.jsx("br", {}),
                   " This book is a treasure trove of feline magic, guaranteed to bring joy and wealth to its lucky paw-sessors!",
-                  " CA : 7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN"
+                  " CA : comingsoon"
                 ],
               }),
               z.jsxs("div", {
@@ -14574,7 +14574,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
   QA = "_nameBox_1u3sq_169",
   KA = "_auditBox_1u3sq_178",
   ZA = "_addressBox_1u3sq_187",
-  $A = "_7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN_1u3sq_194",
+  $A = "_comingsoon_1u3sq_194",
   pn = {
     container: OA,
     header: zA,
@@ -14591,7 +14591,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
     nameBox: QA,
     auditBox: KA,
     addressBox: ZA,
-    7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN: $A,
+    comingsoon: $A,
   },
   XA = "/assets/tokenomicsHeader-BIEPnUwI.png",
   JA = "/assets/tokenomicsHeading-CG6ynmoA.svg",
@@ -14663,7 +14663,7 @@ const gg = "/assets/dextools-KzxcOPtT.svg",
               children: [
                 z.jsx("span", { children: "TOKEN ADDRESS" }),
                 z.jsxs("span", {
-                  className: pn.7nMnNzgfz7BQWwZdJfUVVcSFbQr9jSFSaNdkfwNd6YjN,
+                  className: pn.comingsoon,
                   children: ["$", Ld],
                 }),
                 n
